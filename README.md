@@ -1,2 +1,2 @@
-# AlgorithmsC
-Development of algorithms in C using dynamic memory allocation. 
+# Analysis of Algorithms 
+This repo intends to show some basic sorting algorithms with a time and space complexity analysis.  
